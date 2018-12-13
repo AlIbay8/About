@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://media.istockphoto.com/photos/rough-wall-texture-wall-background-house-facade-with-spatula-picture-id928718792");
+}
+
+.header {
+    background-color: #f4d742;
+    padding: 25px;
+    text-align: center;
+}
+
+.otherPages {
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+}
+
+.subH, .subA, .subP, .subB {
+    margin: 4px 2px;
+    color: white;
+    padding: 10px 15px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.subH {
+    background-color: green;
+}
+
+.subA {
+    background-color: blue;
+}
+
+.subP {
+    background-color: purple;
+}
+
+.subB {
+    background-color: red;
+}
+
+.postContainer {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    background-color: white;
+    padding: 45px;
+}
+
+.break {
+    margin-top: 1000px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.riddle {
+    background-color: white;
+}
